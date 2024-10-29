@@ -1,6 +1,4 @@
-Here’s an updated README file for your Twitter Sentiment Analysis project that uses a CSV file instead of Tweepy:
 
-```markdown
 # Twitter Sentiment Analysis
 
 ## Overview
@@ -72,4 +70,3 @@ This project is a Twitter sentiment analysis application built using Flask. The 
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 - [NLTK Documentation](https://www.nltk.org/)
 - [Flask Documentation](https://flask.palletsprojects.com/)
-```
